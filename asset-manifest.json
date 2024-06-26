@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextCases/static/css/main.92da53bb.css",
+    "main.js": "/TextCases/static/js/main.5973dbe7.js",
+    "static/js/453.05a405e4.chunk.js": "/TextCases/static/js/453.05a405e4.chunk.js",
+    "index.html": "/TextCases/index.html",
+    "main.92da53bb.css.map": "/TextCases/static/css/main.92da53bb.css.map",
+    "main.5973dbe7.js.map": "/TextCases/static/js/main.5973dbe7.js.map",
+    "453.05a405e4.chunk.js.map": "/TextCases/static/js/453.05a405e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92da53bb.css",
+    "static/js/main.5973dbe7.js"
+  ]
+}
