@@ -1,0 +1,24 @@
+
+.form-control{
+  width: 60vw;
+ 
+}
+.textarea{
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+}
+.buttons button{
+  background-color: rgb(22, 196, 202);
+  height: 35px;
+  border-radius: 5%;
+  margin-left: 10px;
+  
+}
+button{
+  background-color: rgb(22, 196, 202);
+  height: 35px;
+  border-radius: 5%;
+  margin-left: 0px;
+
+}
